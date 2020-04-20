@@ -1,0 +1,39 @@
+
+    .header{
+      font-family: Helvetica;
+      font-size: 100px;
+      font-weight: bold;
+      text-align: center;
+      color: khaki;
+      background:url(https://i.imgur.com/KBz2OuO.jpg) blue;
+    }
+    .brush {
+      font-family: Helvetica;
+      font-size: 32px;
+      font-weight: bold;
+      color: white;
+      background-color: mediumspringgreen;
+    }
+    mark {
+      font-family: Helvetica;
+      font-weight: bold;
+      color: blue;
+      background-color: white;
+  }
+  .frames {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+  }
+  .paint {
+      font-family: Helvetica;
+      font-size: 32px;
+      font-weight: bold;
+      color: white;
+      background-color: skyblue;
+  }
+  
+  
+  
